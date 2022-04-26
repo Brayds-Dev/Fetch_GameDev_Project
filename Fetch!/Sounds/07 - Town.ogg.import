@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/07 - Town.ogg-68b6ae6b7750cb18cab0e3d257cfdabf.oggstr"
+
+[deps]
+
+source_file="res://Sounds/07 - Town.ogg"
+dest_files=[ "res://.import/07 - Town.ogg-68b6ae6b7750cb18cab0e3d257cfdabf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
